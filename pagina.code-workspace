@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../pagina"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pagina"
+	}
+}
